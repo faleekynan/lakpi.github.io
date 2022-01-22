@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "lapki.house",
+    "description": "",
+    "home_page_url": "https://faleekynan.github.io/lakpi.github.io",
+    "feed_url": "https://faleekynan.github.io/lakpi.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "chupic"
+    },
+    "items": [
+        {
+            "id": "https://faleekynan.github.io/lakpi.github.io/vyay.html",
+            "url": "https://faleekynan.github.io/lakpi.github.io/vyay.html",
+            "title": "выаы",
+            "summary": " авпавпвапвамсиссми вапвап пвапва впапва ",
+            "content_html": "<div class=\"cssSlider\">\n<ul class=\"slides\">\n<li id=\"slide1\"><img loading=\"lazy\" src=\"https://images.unsplash.com/photo-1483653364400-eedcfb9f1f88?auto=format&amp;fit=crop&amp;w=840&amp;q=60\" data-is-external-image=\"true\"  alt=\"\"></li>\n<li id=\"slide2\"><img loading=\"lazy\" src=\"https://images.unsplash.com/photo-1433256392503-913cee5877e3?auto=format&amp;fit=crop&amp;w=840&amp;q=60\" data-is-external-image=\"true\"  alt=\"\"></li>\n<li id=\"slide3\"><img loading=\"lazy\" src=\"https://images.unsplash.com/photo-1483653085484-eb63c9f02547?auto=format&amp;fit=crop&amp;w=840&amp;q=60\" data-is-external-image=\"true\"  alt=\"\"></li>\n<li id=\"slide4\"><img loading=\"lazy\" src=\"https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&amp;fit=crop&amp;w=840&amp;q=60\" data-is-external-image=\"true\"  alt=\"\"></li>\n<li id=\"slide5\"><img loading=\"lazy\" src=\"https://images.unsplash.com/photo-1453284441168-8780c9f52097?auto=format&amp;fit=crop&amp;w=840&amp;q=60\" data-is-external-image=\"true\"  alt=\"\"></li>\n</ul>\n<ul class=\"thumbnails\">\n<li><a href=\"#slide1\"><img loading=\"lazy\" src=\"https://images.unsplash.com/photo-1483653364400-eedcfb9f1f88?auto=format&amp;fit=crop&amp;w=840&amp;q=60\" data-is-external-image=\"true\" ></a></li>\n<li><a href=\"#slide2\"><img loading=\"lazy\" src=\"https://images.unsplash.com/photo-1433256392503-913cee5877e3?auto=format&amp;fit=crop&amp;w=840&amp;q=60\" data-is-external-image=\"true\" ></a></li>\n<li><a href=\"#slide3\"><img loading=\"lazy\" src=\"https://images.unsplash.com/photo-1483653085484-eb63c9f02547?auto=format&amp;fit=crop&amp;w=840&amp;q=60\" data-is-external-image=\"true\" ></a></li>\n<li><a href=\"#slide4\"><img loading=\"lazy\" src=\"https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&amp;fit=crop&amp;w=840&amp;q=60\" data-is-external-image=\"true\" ></a></li>\n<li><a href=\"#slide5\"><img loading=\"lazy\" src=\"https://images.unsplash.com/photo-1453284441168-8780c9f52097?auto=format&amp;fit=crop&amp;w=840&amp;q=60\" data-is-external-image=\"true\" ></a></li>\n</ul>\n<p> </p>\n<p>авпавпвапвамсиссми</p>\n<p>вапвап</p>\n<p>пвапва</p>\n<p>впапва</p>\n<p> </p>\n</div>",
+            "author": {
+                "name": "chupic"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-22T19:16:09+02:00",
+            "date_modified": "2022-01-22T19:17:12+02:00"
+        },
+        {
+            "id": "https://faleekynan.github.io/lakpi.github.io/dfgdfgdf.html",
+            "url": "https://faleekynan.github.io/lakpi.github.io/dfgdfgdf.html",
+            "title": "dfgdfgdf",
+            "summary": "dfgdfgd ",
+            "content_html": "<p>dfgdfgd</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"4\">\n<figure class=\"gallery__item\"><a href=\"https://faleekynan.github.io/lakpi.github.io/media/posts/1/gallery/Screenshot_1-2.png\" data-size=\"663x826\"><img loading=\"lazy\" src=\"https://faleekynan.github.io/lakpi.github.io/media/posts/1/gallery/Screenshot_1-2-thumbnail.png\" alt=\"\" width=\"663\" height=\"826\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://faleekynan.github.io/lakpi.github.io/media/posts/1/gallery/Screenshot_2-2.png\" data-size=\"827x829\"><img loading=\"lazy\" src=\"https://faleekynan.github.io/lakpi.github.io/media/posts/1/gallery/Screenshot_2-2-thumbnail.png\" alt=\"\" width=\"720\" height=\"722\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://faleekynan.github.io/lakpi.github.io/media/posts/1/gallery/Screenshot_3-2.png\" data-size=\"829x826\"><img loading=\"lazy\" src=\"https://faleekynan.github.io/lakpi.github.io/media/posts/1/gallery/Screenshot_3-2-thumbnail.png\" alt=\"\" width=\"720\" height=\"717\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "chupic"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-22T19:04:15+02:00",
+            "date_modified": "2022-01-22T19:04:15+02:00"
+        }
+    ]
+}
