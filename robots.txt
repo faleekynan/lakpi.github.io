@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://faleekynan.github.io/lakpi.github.io/sitemap.xml
