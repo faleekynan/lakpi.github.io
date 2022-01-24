@@ -1406,6 +1406,13 @@ img {
     border-radius: 0;
     background-color: #f5f7fa; }
 
+.social-info{
+	text-align:center;
+}
+.social-info a{
+	margin: 0 15px;
+}
+
 /* ##### The End ##### */
 
 /*# sourceMappingURL=core-style.css.map */
