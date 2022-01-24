@@ -270,6 +270,9 @@ img {
       display: -webkit-box;
       display: -ms-flexbox;
       display: flex; } }
+	  .mobile-nav .amado-navbar-brand img {
+		  max-width: 137px;
+	  }
   .mobile-nav .amado-navbar-brand {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 70px;
