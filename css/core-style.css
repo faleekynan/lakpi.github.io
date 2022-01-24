@@ -100,9 +100,10 @@ img {
   margin-bottom: 70px !important; }
 
 .mb-100 {
-  margin-bottom: 20px !important; }
+  margin-bottom: 100px !important; }
 .mb-100 a {
-  color: #fff; }
+  color: #fff; 
+  font-size: 22px;}
 
 .ml-15 {
   margin-left: 15px !important; }
