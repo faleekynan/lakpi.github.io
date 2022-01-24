@@ -572,8 +572,8 @@ img {
     z-index: 1;
     -webkit-box-flex: 0;
     -ms-flex: 0 0 calc(95% - 550px);
-    flex: 0 0 calc(95% - 550px);
-    width: calc(95% - 550px);
+    flex: 0 0 calc(100% - 380px);
+    width: 100%;
     max-width: calc(95% - 550px); }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .main-content-wrapper .amado_product_area {
