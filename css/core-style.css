@@ -1416,6 +1416,91 @@ img {
 	margin: 0 15px;
 }
 
+.zamlpastun {
+ width: 37%;
+ margin: 0 auto;
+ background: rgba(255,255,255,0.2);
+ padding: 35px;
+ border: 2px solid #fff;
+ border-radius: 15px/47px;
+ background-clip: padding-box;
+ text-align: center;
+}
+
+.simagesa_findable  {
+ font-size: 1em;
+ padding: 9px;
+ color: #f3f5f4;
+ border: 2px solid #19b15a;
+ border-radius: 20px/50px;
+ text-decoration: none;
+ cursor: pointer;
+ transition: all 0.3s ease-out;
+}
+.simagesa_findable :hover {
+ background: #06D85F;
+}
+
+.tadsg_smiling {
+ position: fixed;
+ top: 0;
+ bottom: 0;
+ left: 0;
+ right: 0;
+ background: rgba(0, 0, 0, 0.7);
+ transition: opacity 500ms;
+ visibility: hidden;
+ opacity: 0;
+}
+.tadsg_smiling:target {
+ visibility: visible;
+ opacity: 1;
+}
+
+.ctorsaros_mportant {
+ margin: 70px auto;
+ padding: 20px;
+ background: #f3fbf7;
+ width: 57%;
+ position: relative;
+ transition: all 5s ease-in-out;
+}
+
+.ctorsaros_mportant h2 {
+ margin-top: 0;
+ color: #2f2d2d;
+ font-family: Tahoma, Arial, sans-serif;
+}
+.ctorsaros_mportant .magept_imization {
+ position: absolute;
+ top: 18px;
+ right: 27px;
+ transition: all 200ms;
+ font-size: 29px;
+ font-weight: bold;
+ text-decoration: none;
+ color: #312f2f;
+}
+.ctorsaros_mportant .magept_imization:hover {
+ color: #06D85F;
+}
+.ctorsaros_mportant .samelokin_stock {
+ max-height: 30%;
+ overflow: auto;
+}
+
+@media screen and (max-width: 700px){
+ .box{
+ width: 100%;
+ }
+ .ctorsaros_mportant{
+ width: 100%;
+ }
+}
+
+
+
+
 /* ##### The End ##### */
 
 /*# sourceMappingURL=core-style.css.map */
