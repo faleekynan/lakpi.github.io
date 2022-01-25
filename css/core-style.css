@@ -1457,6 +1457,7 @@ img {
 .tadsg_smiling:target {
  visibility: visible;
  opacity: 1;
+ z-index: 999;
 }
 
 .ctorsaros_mportant {
