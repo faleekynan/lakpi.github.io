@@ -1602,11 +1602,9 @@ font-size: 14px;
 	line-height: 2.1;
 }
 .someText{
-  height:50px;
+  height:0;
   overflow:hidden;
   display:block;
-  padding:10px;
-  border:1px solid #444;
 }
 
 .theButton{
@@ -1627,10 +1625,14 @@ font-size: 14px;
 
 #showMore:checked + .someText{
   height:100%;
+  display: contents;
 }
 
 #showMore:checked ~ .theButton:after{
  content:"Read Less";
+}
+.agree-box{
+	display: none !important;
 }
 
 
