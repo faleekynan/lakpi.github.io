@@ -1601,40 +1601,36 @@ font-size: 14px;
 	color: #6b6b6b;
 	line-height: 2.1;
 }
-.read-more-state {
-  
+.someText{
+  height:50px;
+  overflow:hidden;
+  display:block;
+  padding:10px;
+  border:1px solid #444;
 }
 
-.read-more-target {
-  opacity: 0;
-  max-height: 0;
-  font-size: 0;
-  transition: .25s ease;
+.theButton{
+  background: #444;
+  color:#fff;
+  padding:10px;
+  display:block;
+  width:100px;
+  margin:10px auto;
+  text-align:center;
+  cursor:pointer;
+  position:relative;
 }
 
-.read-more-state:checked ~ .read-more-wrap .read-more-target {
-  opacity: 1;
-  font-size: inherit;
-  max-height: 999em;
+.theButton:after{
+  content:"Read More";
 }
 
-.read-more-state ~ .read-more-trigger:before {
-  content: 'Show more';
+#showMore:checked + .someText{
+  height:100%;
 }
 
-.read-more-state:checked ~ .read-more-trigger:before {
-  content: 'Show less';
-}
-
-.read-more-trigger {
-  cursor: pointer;
-  display: inline-block;
-  padding: 0 .5em;
-  color: #666;
-  font-size: .9em;
-  line-height: 2;
-  border: 1px solid #ddd;
-  border-radius: .25em;
+#showMore:checked ~ .theButton:after{
+ content:"Read Less";
 }
 
 
