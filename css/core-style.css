@@ -1608,15 +1608,19 @@ font-size: 14px;
 }
 
 .theButton{
-  background: #444;
-  color:#fff;
-  padding:10px;
+  
   display:block;
-  width:100px;
-  margin:10px auto;
-  text-align:center;
-  cursor:pointer;
-  position:relative;
+  min-width: 160px;
+    height: 55px;
+    color: #ffffff;
+    border: none;
+    border-radius: 0;
+    padding: 0 7px;
+    font-size: 18px;
+    line-height: 56px;
+    background-color: #fbb710;
+    font-weight: 400;
+}
 }
 
 .theButton:after{
