@@ -1601,14 +1601,36 @@ font-size: 14px;
 	color: #6b6b6b;
 	line-height: 2.1;
 }
-#section {
-  width: 500px;
-  height: 400px;
-  word-wrap: break-word;
+.someText{
+  height:50px;
+  overflow:hidden;
+  display:block;
+  padding:10px;
+  border:1px solid #444;
 }
 
-.moretext {
-  display: none;
+.theButton{
+  background: #444;
+  color:#fff;
+  padding:10px;
+  display:block;
+  width:100px;
+  margin:10px auto;
+  text-align:center;
+  cursor:pointer;
+  position:relative;
+}
+
+.theButton:after{
+  content:"Read More";
+}
+
+#showMore:checked + .someText{
+  height:100%;
+}
+
+#showMore:checked ~ .theButton:after{
+ content:"Read Less";
 }
 
 
