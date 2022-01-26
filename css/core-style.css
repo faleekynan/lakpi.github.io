@@ -1609,7 +1609,7 @@ font-size: 14px;
 
 .theButton{
   
-  display:block;
+  
   min-width: 160px;
     height: 55px;
     color: #ffffff;
@@ -1621,7 +1621,7 @@ font-size: 14px;
     background-color: #fbb710;
     font-weight: 400;
 }
-}
+
 
 .theButton:after{
   content:"Оформить заказ";
