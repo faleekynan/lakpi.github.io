@@ -3652,3 +3652,9 @@ hr::before,
   margin-top: 0;
   padding-top: 0;
 }
+.agree-box {
+    display: none;
+}
+.design__forms_0{
+	padding:0;
+}

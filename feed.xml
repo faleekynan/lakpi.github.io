@@ -3,36 +3,48 @@
     <title>lapki.house</title>
     <link href="https://faleekynan.github.io/lakpi.github.io/feed.xml" rel="self" />
     <link href="https://faleekynan.github.io/lakpi.github.io" />
-    <updated>2022-01-27T14:49:21+02:00</updated>
+    <updated>2022-01-27T15:31:21+02:00</updated>
     <author>
         <name>chupic</name>
     </author>
     <id>https://faleekynan.github.io/lakpi.github.io</id>
 
     <entry>
-        <title>yuhjgjghjgh (copy)</title>
+        <title>Заказ проекта</title>
+        <author>
+            <name>chupic</name>
+        </author>
+        <link href="https://faleekynan.github.io/lakpi.github.io/zakaz-proekta.html"/>
+        <id>https://faleekynan.github.io/lakpi.github.io/zakaz-proekta.html</id>
+
+        <updated>2022-01-27T15:28:45+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Бонита</title>
         <author>
             <name>chupic</name>
         </author>
         <link href="https://faleekynan.github.io/lakpi.github.io/yuhjgjghjgh-5.html"/>
         <id>https://faleekynan.github.io/lakpi.github.io/yuhjgjghjgh-5.html</id>
-            <category term="Домики"/>
+            <category term="Лежанки"/>
 
-        <updated>2022-01-27T14:49:21+02:00</updated>
+        <updated>2022-01-27T15:31:21+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://faleekynan.github.io/lakpi.github.io/media/posts/7/Screenshot_9.png" alt="" />
+                    <img src="https://faleekynan.github.io/lakpi.github.io/media/posts/7/260173690_1223653544794558_7664287688736480330_n.webp" alt="" />
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://faleekynan.github.io/lakpi.github.io/media/posts/7/gallery/Screenshot_6.png" data-size="752x824"><img loading="lazy" src="https://faleekynan.github.io/lakpi.github.io/media/posts/7/gallery/Screenshot_6-thumbnail.png" alt="" width="720" height="789"></a></figure>
-<figure class="gallery__item"><a href="https://faleekynan.github.io/lakpi.github.io/media/posts/7/gallery/Screenshot_8.png" data-size="829x824"><img loading="lazy" src="https://faleekynan.github.io/lakpi.github.io/media/posts/7/gallery/Screenshot_8-thumbnail.png" alt="" width="720" height="716"></a></figure>
-<figure class="gallery__item"><a href="https://faleekynan.github.io/lakpi.github.io/media/posts/7/gallery/Screenshot_9.png" data-size="809x874"><img loading="lazy" src="https://faleekynan.github.io/lakpi.github.io/media/posts/7/gallery/Screenshot_9-thumbnail.png" alt="" width="720" height="778"></a></figure>
+<figure class="gallery__item"><a href="https://faleekynan.github.io/lakpi.github.io/media/posts/7/gallery/260173690_1223653544794558_7664287688736480330_n.webp" data-size="957x957"><img loading="lazy" src="https://faleekynan.github.io/lakpi.github.io/media/posts/7/gallery/260173690_1223653544794558_7664287688736480330_n-thumbnail.webp" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://faleekynan.github.io/lakpi.github.io/media/posts/7/gallery/259847103_1281431159027168_3910406645122840742_n.webp" data-size="957x957"><img loading="lazy" src="https://faleekynan.github.io/lakpi.github.io/media/posts/7/gallery/259847103_1281431159027168_3910406645122840742_n-thumbnail.webp" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://faleekynan.github.io/lakpi.github.io/media/posts/7/gallery/259602137_231973132368504_6207922517160014317_n.webp" data-size="957x957"><img loading="lazy" src="https://faleekynan.github.io/lakpi.github.io/media/posts/7/gallery/259602137_231973132368504_6207922517160014317_n-thumbnail.webp" alt="" width="720" height="720"></a></figure>
 </div></div>
 <table style="border-collapse: collapse; width: 100%; height: 280px;" border="0">
 <tbody>
 <tr style="height: 50px;">
-<td style="height: 47px;"><strong>Бонита</strong></td>
-<td style="width: 61.9945%; height: 47px;"><strong>Цена: 1500 грн</strong></td>
+<td style="height: 47px;"><strong>Цена: <span style="color: #fbb710;">1100 грн</span></strong></td>
+<td style="width: 61.9945%; height: 47px;"><span style="color: #fbb710;">Под заказ (3-4 дня)</span></td>
 </tr>
 <tr style="height: 50px;">
 <td style="width: 38.0055%; height: 50px;"><strong>Характеристики:</strong></td>
@@ -43,11 +55,11 @@
 <td style="width: 61.9945%; height: 50px;">Новая почта</td>
 </tr>
 <tr style="height: 50px;">
-<td style="width: 38.0055%; height: 50px;">Ширина: <strong>40см</strong></td>
+<td style="width: 38.0055%; height: 50px;">Ширина: <strong>60см</strong></td>
 <td style="width: 61.9945%; height: 50px;">Укрпочта</td>
 </tr>
 <tr style="height: 50px;">
-<td style="width: 38.0055%; height: 50px;">Глубина: <strong>60см</strong></td>
+<td style="width: 38.0055%; height: 50px;">Глубина: <strong>40см</strong></td>
 <td style="width: 61.9945%; height: 50px;">Justin</td>
 </tr>
 <tr style="height: 33px;">
@@ -56,133 +68,9 @@
 </tr>
 </tbody>
 </table>
-<p><strong>Оформить заказ</strong></p>
+<h3><strong>Оформить заказ</strong></h3>
 <div id="SNH2838R" class="_Forms_generate" data-formid="s61642879761z3h"> </div>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>yuhjgjghjgh (copy)</title>
-        <author>
-            <name>chupic</name>
-        </author>
-        <link href="https://faleekynan.github.io/lakpi.github.io/yuhjgjghjgh-4.html"/>
-        <id>https://faleekynan.github.io/lakpi.github.io/yuhjgjghjgh-4.html</id>
-            <category term="Домики"/>
-
-        <updated>2022-01-27T12:15:56+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://faleekynan.github.io/lakpi.github.io/media/posts/6/Screenshot_9.png" alt="" />
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://faleekynan.github.io/lakpi.github.io/media/posts/6/gallery/Screenshot_6.png" data-size="752x824"><img loading="lazy" src="https://faleekynan.github.io/lakpi.github.io/media/posts/6/gallery/Screenshot_6-thumbnail.png" alt="" width="720" height="789"></a></figure>
-<figure class="gallery__item"><a href="https://faleekynan.github.io/lakpi.github.io/media/posts/6/gallery/Screenshot_8.png" data-size="829x824"><img loading="lazy" src="https://faleekynan.github.io/lakpi.github.io/media/posts/6/gallery/Screenshot_8-thumbnail.png" alt="" width="720" height="716"></a></figure>
-<figure class="gallery__item"><a href="https://faleekynan.github.io/lakpi.github.io/media/posts/6/gallery/Screenshot_9.png" data-size="809x874"><img loading="lazy" src="https://faleekynan.github.io/lakpi.github.io/media/posts/6/gallery/Screenshot_9-thumbnail.png" alt="" width="720" height="778"></a></figure>
-</div></div>
-<h4>   Бонита</h4>
-<table style="border-collapse: collapse; width: 100%; height: 300px;" border="1">
-<tbody>
-<tr style="height: 50px;">
-<td style="width: 50%; height: 50px;"><strong>Цена: 1500 грн</strong></td>
-<td style="width: 50%; height: 50px;"> </td>
-</tr>
-<tr style="height: 50px;">
-<td style="width: 50%; height: 50px;">Характеристики:</td>
-<td style="width: 50%; height: 50px;">Доставка:</td>
-</tr>
-<tr style="height: 50px;">
-<td style="width: 50%; height: 50px;">ываыв</td>
-<td style="width: 50%; height: 50px;">ываыв</td>
-</tr>
-<tr style="height: 50px;">
-<td style="width: 50%; height: 50px;">ываыв</td>
-<td style="width: 50%; height: 50px;">аыва</td>
-</tr>
-<tr style="height: 50px;">
-<td style="width: 50%; height: 50px;">авыа</td>
-<td style="width: 50%; height: 50px;">выавы</td>
-</tr>
-<tr style="height: 50px;">
-<td style="width: 50%; height: 50px;">ываы</td>
-<td style="width: 50%; height: 50px;"> </td>
-</tr>
-</tbody>
-</table>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>yuhjgjghjgh</title>
-        <author>
-            <name>chupic</name>
-        </author>
-        <link href="https://faleekynan.github.io/lakpi.github.io/yuhjgjghjgh.html"/>
-        <id>https://faleekynan.github.io/lakpi.github.io/yuhjgjghjgh.html</id>
-            <category term="Домики"/>
-
-        <updated>2022-01-27T12:15:48+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://faleekynan.github.io/lakpi.github.io/media/posts/3/Screenshot_9.png" alt="" />
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://faleekynan.github.io/lakpi.github.io/media/posts/3/gallery/Screenshot_6.png" data-size="752x824"><img loading="lazy" src="https://faleekynan.github.io/lakpi.github.io/media/posts/3/gallery/Screenshot_6-thumbnail.png" alt="" width="720" height="789"></a></figure>
-<figure class="gallery__item"><a href="https://faleekynan.github.io/lakpi.github.io/media/posts/3/gallery/Screenshot_8.png" data-size="829x824"><img loading="lazy" src="https://faleekynan.github.io/lakpi.github.io/media/posts/3/gallery/Screenshot_8-thumbnail.png" alt="" width="720" height="716"></a></figure>
-<figure class="gallery__item"><a href="https://faleekynan.github.io/lakpi.github.io/media/posts/3/gallery/Screenshot_9.png" data-size="809x874"><img loading="lazy" src="https://faleekynan.github.io/lakpi.github.io/media/posts/3/gallery/Screenshot_9-thumbnail.png" alt="" width="720" height="778"></a></figure>
-</div></div>
-<h4>   Бонита</h4>
-<table style="border-collapse: collapse; width: 100%; height: 300px;" border="1">
-<tbody>
-<tr style="height: 50px;">
-<td style="width: 50%; height: 50px;"><strong>Цена: 1500 грн</strong></td>
-<td style="width: 50%; height: 50px;"> </td>
-</tr>
-<tr style="height: 50px;">
-<td style="width: 50%; height: 50px;">Характеристики:</td>
-<td style="width: 50%; height: 50px;">Доставка:</td>
-</tr>
-<tr style="height: 50px;">
-<td style="width: 50%; height: 50px;">ываыв</td>
-<td style="width: 50%; height: 50px;">ываыв</td>
-</tr>
-<tr style="height: 50px;">
-<td style="width: 50%; height: 50px;">ываыв</td>
-<td style="width: 50%; height: 50px;">аыва</td>
-</tr>
-<tr style="height: 50px;">
-<td style="width: 50%; height: 50px;">авыа</td>
-<td style="width: 50%; height: 50px;">выавы</td>
-</tr>
-<tr style="height: 50px;">
-<td style="width: 50%; height: 50px;">ываы</td>
-<td style="width: 50%; height: 50px;"> </td>
-</tr>
-</tbody>
-</table>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Шаблон</title>
-        <author>
-            <name>chupic</name>
-        </author>
-        <link href="https://faleekynan.github.io/lakpi.github.io/vyay.html"/>
-        <id>https://faleekynan.github.io/lakpi.github.io/vyay.html</id>
-            <category term="Домики"/>
-
-        <updated>2022-01-26T20:52:23+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://faleekynan.github.io/lakpi.github.io/media/posts/2/Screenshot_8.png" alt="" />
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://faleekynan.github.io/lakpi.github.io/media/posts/2/gallery/Screenshot_2-2.png" data-size="827x829"><img loading="lazy" src="https://faleekynan.github.io/lakpi.github.io/media/posts/2/gallery/Screenshot_2-2-thumbnail.png" alt="" width="768" height="770"></a></figure>
-<figure class="gallery__item"><a href="https://faleekynan.github.io/lakpi.github.io/media/posts/2/gallery/Screenshot_3-2.png" data-size="829x826"><img loading="lazy" src="https://faleekynan.github.io/lakpi.github.io/media/posts/2/gallery/Screenshot_3-2-thumbnail.png" alt="" width="768" height="765"></a></figure>
-<figure class="gallery__item"><a href="https://faleekynan.github.io/lakpi.github.io/media/posts/2/gallery/Screenshot_4.png" data-size="828x824"><img loading="lazy" src="https://faleekynan.github.io/lakpi.github.io/media/posts/2/gallery/Screenshot_4-thumbnail.png" alt="" width="768" height="764"></a></figure>
-</div></div>
             ]]>
         </content>
     </entry>
