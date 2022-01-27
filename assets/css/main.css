@@ -2386,6 +2386,7 @@ button:disabled,
   position: relative;
   width: calc(33.3333333333% - 6em);
 }
+
 .posts article:before {
   background: rgba(210, 215, 217, 0.75);
   content: "";
@@ -3275,7 +3276,7 @@ hr::before,
   transition: left 0.5s ease;
   -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
   border: 0;
-  display: block;
+  display: none;
   height: 7.5em;
   left: 26em;
   line-height: 7.5em;
@@ -3334,6 +3335,7 @@ hr::before,
     line-height: 6.25em;
     text-indent: 5em;
     width: 5em;
+	display: none;
   }
   #sidebar .toggle:before {
     font-size: 1.5rem;
@@ -3372,6 +3374,7 @@ hr::before,
     width: 100%;
   }
   #sidebar .toggle {
+	  display: block;
     text-indent: 6em;
     width: 6em;
   }
@@ -3388,6 +3391,7 @@ hr::before,
     text-indent: 7.25em;
     width: 7.25em;
 	margin-left: 1.2em;
+	display: block;
   }
   #sidebar .toggle:before {
     color: #7f888f;
