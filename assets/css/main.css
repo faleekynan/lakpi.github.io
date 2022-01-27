@@ -155,6 +155,7 @@ em, i {
 
 p {
   margin: 0 0 2em 0;
+  font-size: 14px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -2005,6 +2006,7 @@ ul.contact li:first-child {
   border-top: 0;
   margin-top: 0;
   padding-top: 0;
+  font-size: 14px;
 }
 ul.contact li:first-child:before {
   top: 0;
@@ -3238,7 +3240,7 @@ hr::before,
   width: 26em;
 }
 #sidebar h2 {
-  font-size: 1.3888888889em;
+  font-size: 1.5em;
 }
 #sidebar > .inner {
   padding: 2.2222222222em 2.2222222222em 2.4444444444em 2.2222222222em;
@@ -3578,7 +3580,7 @@ hr::before,
   color: inherit;
   cursor: pointer;
   display: block;
-  font-size: 0.9em;
+  font-size: 1.1em;
   padding: 0.625em 0;
 }
 #menu ul a:hover, #menu ul span:hover {
