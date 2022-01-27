@@ -3,7 +3,7 @@
     <title>lapki.house</title>
     <link href="https://faleekynan.github.io/lakpi.github.io/feed.xml" rel="self" />
     <link href="https://faleekynan.github.io/lakpi.github.io" />
-    <updated>2022-01-27T14:41:21+02:00</updated>
+    <updated>2022-01-27T14:49:21+02:00</updated>
     <author>
         <name>chupic</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://faleekynan.github.io/lakpi.github.io/yuhjgjghjgh-5.html</id>
             <category term="Домики"/>
 
-        <updated>2022-01-27T14:41:21+02:00</updated>
+        <updated>2022-01-27T14:49:21+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -57,7 +57,8 @@
 </tbody>
 </table>
 <p><strong>Оформить заказ</strong></p>
-<p>&lt;div id="SNH2838R" data-formid="s61642879761z3h" class="_Forms_generate"&gt;&lt;/div&gt;</p>
+<div id="SNH2838R" class="_Forms_generate" data-formid="s61642879761z3h"> </div>
+<p> </p>
             ]]>
         </content>
     </entry>
