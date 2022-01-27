@@ -2803,7 +2803,7 @@ sup {
 }
 
 .comments {
-  border-top: solid 5px var(--color);
+  border-top: solid 3px var(--color);
   padding-top: 3em;
   padding-bottom: 6em;
 }
@@ -3412,7 +3412,7 @@ hr::before,
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  border-bottom: solid 5px var(--color);
+  border-bottom: solid 3px var(--color);
   padding: 1.65em 0 1em 0;
   position: relative;
 }
