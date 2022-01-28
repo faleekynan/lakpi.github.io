@@ -3,7 +3,7 @@
     <title>lapki.house</title>
     <link href="https://faleekynan.github.io/lakpi.github.io/feed.xml" rel="self" />
     <link href="https://faleekynan.github.io/lakpi.github.io" />
-    <updated>2022-01-28T19:01:05+02:00</updated>
+    <updated>2022-01-28T19:02:02+02:00</updated>
     <author>
         <name>chupic</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://faleekynan.github.io/lakpi.github.io/stolbik.html</id>
             <category term="Столбики"/>
 
-        <updated>2022-01-28T19:01:05+02:00</updated>
+        <updated>2022-01-28T19:02:02+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -39,7 +39,7 @@
 <td style="width: 41.2308%; height: 84px;">
 <h3>400грн</h3>
 </td>
-<td style="width: 3.48675%; height: 84px;"><span style="color: #e67e23;">В наличии</span></td>
+<td style="width: 3.48675%; height: 84px;"><strong><span style="color: #e67e23;">В наличии</span></strong></td>
 </tr>
 <tr style="height: 50px;">
 <td style="width: 41.2308%; height: 50px;">Материал основания: <strong>ДСП</strong></td>
