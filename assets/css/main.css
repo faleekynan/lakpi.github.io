@@ -2035,6 +2035,7 @@ table tbody tr:nth-child(2n+1) {
 table td {
   padding: 0 0.75em;
     vertical-align: middle;
+	font-size: 15px;
 }
 table th {
   color: #3d4449;
