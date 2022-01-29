@@ -2387,26 +2387,8 @@ button:disabled,
   width: calc(33.3333333333% - 6em);
 }
 
-.posts article:before {
-  background: rgba(210, 215, 217, 0.75);
-  content: "";
-  display: block;
-  height: calc(100% + 6em);
-  left: -3em;
-  position: absolute;
-  top: 0;
-  width: 1px;
-}
-.posts article:after {
-  background: rgba(210, 215, 217, 0.75);
-  bottom: -3em;
-  content: "";
-  display: block;
-  height: 1px;
-  position: absolute;
-  right: 0;
-  width: calc(100% + 6em);
-}
+
+
 .posts article > :last-child {
   margin-bottom: 0;
 }
@@ -2462,12 +2444,13 @@ button:disabled,
 }
 @media screen and (max-width: 736px) {
   .posts {
-    margin: 0 0 2em -4.5em;
-    width: calc(100% + 4.5em);
+    margin: 0;
+    width: 100%;
   }
   .posts article {
    padding: 0.5em;
     width: 50% !important;
+	margin: 0;
   }
   .posts article:before {
     height: calc(100% + 4.5em);
