@@ -3272,7 +3272,7 @@ hr::before,
   width: 26em;
 }
 #sidebar h2 {
-  font-size: 1.5em;
+  font-size: 1.4em;
 }
 #sidebar > .inner {
   padding: 2.2222222222em 2.2222222222em 2.4444444444em 2.2222222222em;
@@ -3623,7 +3623,7 @@ hr::before,
   color: inherit;
   cursor: pointer;
   display: block;
-  font-size: 1.1em;
+  font-size: 1em;
   padding: 0.625em 0;
 }
 #menu ul a:hover, #menu ul span:hover {
