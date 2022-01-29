@@ -3707,18 +3707,17 @@ hr::before,
 }
 
 .theButton{
-  
-  
-  min-width: 160px;
-    height: 55px;
-    color: #ffffff;
+  height: 100%;
+    color: #fff;
     border: none;
     border-radius: 0;
-    padding: 0 7px;
     font-size: 18px;
     line-height: 56px;
     background-color: #fbb710;
     font-weight: 400;
+    margin: 0;
+    width: 100%;
+    padding: 0 0.75em;
 }
 
 
@@ -3736,4 +3735,9 @@ hr::before,
 }
 .agree-box{
 	display: none !important;
+}
+._Forms_generate{
+	position: relative;
+    display: inline-block;
+	
 }
