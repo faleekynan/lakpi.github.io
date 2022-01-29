@@ -3,7 +3,7 @@
     <title>lapki.house</title>
     <link href="https://faleekynan.github.io/lakpi.github.io/feed.xml" rel="self" />
     <link href="https://faleekynan.github.io/lakpi.github.io" />
-    <updated>2022-01-29T11:29:26+02:00</updated>
+    <updated>2022-01-29T11:46:22+02:00</updated>
     <author>
         <name>chupic</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://faleekynan.github.io/lakpi.github.io/stolbik.html</id>
             <category term="Столбики"/>
 
-        <updated>2022-01-29T11:29:26+02:00</updated>
+        <updated>2022-01-29T11:46:22+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -57,7 +57,11 @@
 <td style="height: 50px;" colspan="2">Цвет обивки: <figure class="post__image"><img loading="lazy"  src="https://faleekynan.github.io/lakpi.github.io/media/posts/12/Doris-bezh-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://faleekynan.github.io/lakpi.github.io/media/posts/12/responsive/Doris-bezh-2-xs.jpg 300w ,https://faleekynan.github.io/lakpi.github.io/media/posts/12/responsive/Doris-bezh-2-sm.jpg 480w ,https://faleekynan.github.io/lakpi.github.io/media/posts/12/responsive/Doris-bezh-2-md.jpg 768w"  alt="" width="50" height="50"></figure><figure class="post__image"><img loading="lazy"  src="https://faleekynan.github.io/lakpi.github.io/media/posts/12/Doris-seryy-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://faleekynan.github.io/lakpi.github.io/media/posts/12/responsive/Doris-seryy-2-xs.jpg 300w ,https://faleekynan.github.io/lakpi.github.io/media/posts/12/responsive/Doris-seryy-2-sm.jpg 480w ,https://faleekynan.github.io/lakpi.github.io/media/posts/12/responsive/Doris-seryy-2-md.jpg 768w"  alt="" width="50" height="50"></figure><figure class="post__image"><img loading="lazy"  src="https://faleekynan.github.io/lakpi.github.io/media/posts/12/Doris-korichnevyy-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://faleekynan.github.io/lakpi.github.io/media/posts/12/responsive/Doris-korichnevyy-2-xs.jpg 300w ,https://faleekynan.github.io/lakpi.github.io/media/posts/12/responsive/Doris-korichnevyy-2-sm.jpg 480w ,https://faleekynan.github.io/lakpi.github.io/media/posts/12/responsive/Doris-korichnevyy-2-md.jpg 768w"  alt="" width="50" height="50"></figure></td>
 </tr>
 <tr>
-<td colspan="2"> </td>
+<td colspan="2"><input id="showMore" hidden="" type="checkbox">
+<div class="someText">
+<div id="SNH2838R" class="_Forms_generate" data-formid="s61642879761z3h"> </div>
+</div>
+<label class="theButton" for="showMore"></label></td>
 </tr>
 </tbody>
 </table>
