@@ -3700,3 +3700,40 @@ hr::before,
 .design__forms_0{
 	padding:0 !important;
 }
+.someText{
+  height:0;
+  overflow:hidden;
+  display:block;
+}
+
+.theButton{
+  
+  
+  min-width: 160px;
+    height: 55px;
+    color: #ffffff;
+    border: none;
+    border-radius: 0;
+    padding: 0 7px;
+    font-size: 18px;
+    line-height: 56px;
+    background-color: #fbb710;
+    font-weight: 400;
+}
+
+
+.theButton:after{
+  content:"Оформить заказ";
+}
+
+#showMore:checked + .someText{
+  height:100%;
+  display: contents;
+}
+
+#showMore:checked ~ .theButton:after{
+ content:"Свернуть";
+}
+.agree-box{
+	display: none !important;
+}
