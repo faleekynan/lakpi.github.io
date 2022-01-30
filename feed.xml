@@ -3,7 +3,7 @@
     <title>lapki.house</title>
     <link href="https://faleekynan.github.io/lakpi.github.io/feed.xml" rel="self" />
     <link href="https://faleekynan.github.io/lakpi.github.io" />
-    <updated>2022-01-30T13:16:43+02:00</updated>
+    <updated>2022-01-30T16:41:52+02:00</updated>
     <author>
         <name>chupic</name>
     </author>
@@ -63,9 +63,30 @@
         <link href="https://faleekynan.github.io/lakpi.github.io/oplata-i-dostavka.html"/>
         <id>https://faleekynan.github.io/lakpi.github.io/oplata-i-dostavka.html</id>
 
-        <updated>2022-01-30T13:07:40+02:00</updated>
+        <updated>2022-01-30T16:41:52+02:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                <table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%; background-color: #ffffff;">
+<h2>Оплата и доставка</h2>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td style="width: 100%; background-color: #ffffff;">
+<p>Доставка по Украине осуществляется с помощью сервисов доставки: <strong>Новая почта</strong>, <strong>Укрпочта </strong>и <strong>Justin</strong>. Доставка возможна как до отделения, так и по точному адресу.</p>
+<p>Сроки доставки по Украине, в зависимости от удаленности населенного пункта, как правило, составляют 1-2 дня с момента отправки.</p>
+<p><strong>Стоимость доставки согласно тарифам перевозчика</strong></p>
+<p><strong>Оплата заказа</strong>: Полная оплата, Предоплата 50%</p>
+</td>
+</tr>
+</tbody>
+</table>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Миски &quot;Тройной стандарт&quot;</title>
